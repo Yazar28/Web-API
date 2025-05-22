@@ -1,0 +1,52 @@
+# Archivos de compilación
+bin/
+obj/
+out/
+
+# Archivos de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos temporales
+*.log
+*.vspscc
+*.vssscc
+*.tmp
+*.temp
+
+# Configuración local de Visual Studio
+.vs/
+.vscode/
+
+# Archivos generados por el IDE
+Generated\_Files/
+
+# Configuración de IIS Express
+*.dbmdl
+*.dbproj.schemaview
+*.dbmdl
+*.pdb
+*.cache
+*.config
+*.bak
+
+# Archivos de dependencia
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Archivos de certificados o clave secreta
+*.pfx
+*.snk
+secrets.json
+
+# Archivos de entorno
+.env
+.env.*
+
+# Mac y Linux
+.DS_Store
+*.swp

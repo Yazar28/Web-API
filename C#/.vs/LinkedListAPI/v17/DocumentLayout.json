@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programaci\u00F3n\\Algoritmo y Estructuras de Datos\\LinkedListAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35C88789-824D-4334-8D5B-1CE33AC423C7}|LinkedListAPI\\LinkedListAPI.csproj|c:\\users\\usuario\\onedrive\\desktop\\programaci\u00F3n\\algoritmo y estructuras de datos\\linkedlistapi\\linkedlistapi\\controllers\\linkedlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C88789-824D-4334-8D5B-1CE33AC423C7}|LinkedListAPI\\LinkedListAPI.csproj|solutionrelative:linkedlistapi\\controllers\\linkedlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C88789-824D-4334-8D5B-1CE33AC423C7}|LinkedListAPI\\LinkedListAPI.csproj|c:\\users\\usuario\\onedrive\\desktop\\programaci\u00F3n\\algoritmo y estructuras de datos\\linkedlistapi\\linkedlistapi\\models\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C88789-824D-4334-8D5B-1CE33AC423C7}|LinkedListAPI\\LinkedListAPI.csproj|solutionrelative:linkedlistapi\\models\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C88789-824D-4334-8D5B-1CE33AC423C7}|LinkedListAPI\\LinkedListAPI.csproj|c:\\users\\usuario\\onedrive\\desktop\\programaci\u00F3n\\algoritmo y estructuras de datos\\linkedlistapi\\linkedlistapi\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C88789-824D-4334-8D5B-1CE33AC423C7}|LinkedListAPI\\LinkedListAPI.csproj|solutionrelative:linkedlistapi\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programaci\u00F3n\\Algoritmo y Estructuras de Datos\\LinkedListAPI\\LinkedListAPI\\Models\\LinkedList.cs",
+              "RelativeDocumentMoniker": "LinkedListAPI\\Models\\LinkedList.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programaci\u00F3n\\Algoritmo y Estructuras de Datos\\LinkedListAPI\\LinkedListAPI\\Models\\LinkedList.cs",
+              "RelativeToolTip": "LinkedListAPI\\Models\\LinkedList.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:39:49.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programaci\u00F3n\\Algoritmo y Estructuras de Datos\\LinkedListAPI\\LinkedListAPI\\Models\\Node.cs",
+              "RelativeDocumentMoniker": "LinkedListAPI\\Models\\Node.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programaci\u00F3n\\Algoritmo y Estructuras de Datos\\LinkedListAPI\\LinkedListAPI\\Models\\Node.cs",
+              "RelativeToolTip": "LinkedListAPI\\Models\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:39:13.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedListController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programaci\u00F3n\\Algoritmo y Estructuras de Datos\\LinkedListAPI\\LinkedListAPI\\Controllers\\LinkedListController.cs",
+              "RelativeDocumentMoniker": "LinkedListAPI\\Controllers\\LinkedListController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Desktop\\Programaci\u00F3n\\Algoritmo y Estructuras de Datos\\LinkedListAPI\\LinkedListAPI\\Controllers\\LinkedListController.cs",
+              "RelativeToolTip": "LinkedListAPI\\Controllers\\LinkedListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:34:05.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
